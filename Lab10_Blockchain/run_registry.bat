@@ -1,0 +1,3 @@
+@echo off
+echo Starting Property Registry Application...
+java -cp "lib\json.jar;." PropertyRegistry 

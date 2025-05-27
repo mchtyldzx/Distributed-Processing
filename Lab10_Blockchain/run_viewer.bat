@@ -1,0 +1,3 @@
+@echo off
+echo Starting Property Viewer Application...
+java -cp "lib\json.jar;." PropertyViewer 
